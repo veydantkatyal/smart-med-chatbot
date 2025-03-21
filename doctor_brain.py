@@ -44,6 +44,3 @@ def analyze_image_with_query(query, model, encoded_image):
 
     print(chat_completion.choices[0].message.content)
 
-if __name__ == "__main__":
-    encoded_img = encode_image(image_path)
-    analyze_image_with_query(query, model, encoded_img)
