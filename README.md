@@ -75,6 +75,16 @@ python gradio_app.py
 
 ---
 
+## Detailed Architecture
+![](./images/architecture.png)
+
+## Demo
+
+![](./images/UI.png)
+![](./images/test.png)
+
+---
+
 ## Example Use Case
 - User: "I have a sore throat and fever."
 - Bot: "You may be experiencing a viral infection. Please stay hydrated and monitor your symptoms. If it persists, consult a doctor."
